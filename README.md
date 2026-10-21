@@ -20,21 +20,21 @@ Fui parte de un equipo de 8 personas. Mi trabajo se enfocó en:
 
 ## Equipo
 
-- [Hugo Flores]
-- [Angel Martín González]
-- [Erik Román Caballero]
-- [José Arnoldo Garza]
-- [Itan Alejandro González]
-- [Kevin Sebastián Huerta]
-- [Reynaldo Emanuel Ortiz]
-- [Luis Alberto Lejia]
+- Hugo Flores
+- Angel Martin González
+- Erik Román Caballero
+- José Arnoldo Garza
+- Itan Alejandro González
+- Kevin Sebastián Huerta
+- Reynaldo Emanuel Ortiz
+- Luis Alberto Lejia
 
 ## Cómo abrir el proyecto
 
 1. Clona este repositorio.
-2. Ábrelo con Unity Hub usando la versión [versión de Unity].
+2. Ábrelo con Unity Hub usando la versión 6000.3.11f1.
 3. La primera vez tardará en abrir, porque Unity regenera archivos del proyecto.
-4. Para probarlo, usa un visor de realidad virtual [modelo del visor, si lo recuerdas] o un emulador de dispositivo VR.
+4. Para probarlo, usa un visor de realidad virtual o un emulador de dispositivo VR.
 
 ## Nota
 
